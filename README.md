@@ -8,7 +8,7 @@
 
 ## Project Structure Description
 
-###
+### Activites
 
 #### OverlayActivity 
 
@@ -27,6 +27,7 @@
 * Checks if user has providided the necessary permission for the application to function properly.
 
 ### helper
+
 #### NearbyPlace
 
 * Class that contains the basic information about the place of interest.
@@ -49,9 +50,9 @@
 
 * This class draws the augmented reality overlay over the camera preview.
 
-#### utilities
+### utilities
 
-PlacesUtilities
+#### PlacesUtilities
 
 * Class that helps to parse the basic details of the place that is obtained from the places endpoint.
 
