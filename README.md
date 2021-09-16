@@ -44,7 +44,7 @@
 
 #### CameraDisplayView
 
-* This class helps us to open OverlayDisplayView draws the augmented reality overlay over the camera preview. the back facing camera's preview.
+* This class helps us to open the back facing camera's preview.
 
 #### OverlayDisaplyView
 
